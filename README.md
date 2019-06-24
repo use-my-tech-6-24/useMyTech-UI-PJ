@@ -1,6 +1,7 @@
 # useMyTech-UI-PJ
 
 Day 1 Goals:
+
 -DEPLOY TO NETLIFY
 
 -Marketing landing page scaffolded with common layout structure implemented
